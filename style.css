@@ -7,22 +7,25 @@
 .wadah {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #153677, #4e085f);
+    background-image: url(img/wp1.png);
+    background-size: cover;
     padding: 10px;
 }
 .app {
     width: 100%;
     max-width: 540px;
-    background: #fff;
+    background: #ffffff67;
+    border: 1px solid #162a3d  ;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
 }
 .app h2 {
-    color: #002765;
+    color: #162a3d;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
+    justify-content: center ;
 }
 .app h2 img {
     width: 30px;
@@ -49,7 +52,7 @@ button {
     border: none;
     outline: none;
     padding: 16px 50px;
-    background: #ff5945;
+    background: #162a3d;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
