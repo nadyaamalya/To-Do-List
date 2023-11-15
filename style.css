@@ -11,6 +11,12 @@
     background-size: cover;
     padding: 10px;
 }
+.h3 {
+    justify-content: center;
+    color: #162a3d;
+    margin-bottom: 20px;
+
+}
 .app {
     width: 100%;
     max-width: 540px;
